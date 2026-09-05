@@ -4,9 +4,6 @@
 
 While the original Courier Prime keeps every character at a fixed width as it is a recreation, **Prime Propo adjusts character spacing proportionally** for enhanced legibility, smoother reading, and tighter document text layouts, all while retaining that nostalgic, elegant typewriter aesthetic for the sans-serif folks.
 
-<!-- Optional: Add a specimen image or comparison image here -->
-![Prime Propo Font Specimen](preview-image.png)
-
 ## ✨ Features
 
 * **Proportional Spacing:** Optimized kerning and varying character widths for standard document reading rather than strict monospaced grids.
